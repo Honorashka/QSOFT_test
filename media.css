@@ -1,0 +1,14 @@
+/* @media screen and (min-width: 768px) {
+    .card-list__img {
+        height: 200px;
+        width: 200px;
+    }
+}
+
+
+@media screen and (min-width: 1440px) {
+    .card-list__img {
+        height: 400px;
+        width: 400px;
+    }
+} */
